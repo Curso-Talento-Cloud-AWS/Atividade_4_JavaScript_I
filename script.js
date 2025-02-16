@@ -1,3 +1,7 @@
-for (let c = 0; c < 3; c++) {
+function imprimeConsole() {
     console.log("Conexão feita com sucesso!");
 }
+
+imprimeConsole();
+imprimeConsole();
+imprimeConsole();
